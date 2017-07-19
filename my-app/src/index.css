@@ -1,0 +1,15 @@
+@import './styles/ag-grid/ag-grid.less';
+@import './styles/ag-grid/theme-fresh.less';
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.agGridWrapper {
+    height: 100%;
+}
+
+.sampleGrid {
+    height: 600px;
+}
